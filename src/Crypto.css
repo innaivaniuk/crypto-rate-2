@@ -1,0 +1,32 @@
+*{
+    text-align: center;
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+header {
+    height:150px;
+    font-size:2rem;
+    background-color: grey;
+    color:white;
+    padding:50px;
+}
+ul {
+
+    list-style-type: none;
+    
+    }
+
+ li {
+        border:1px solid rgb(28, 103, 201);
+        width: 400px;
+        font-size:1.3rem;
+        margin-bottom: 10px !important;
+        left:150px;
+        margin:0 auto;
+    }
+    input {
+        margin:10px;
+    }
